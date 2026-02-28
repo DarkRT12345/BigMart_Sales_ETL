@@ -126,8 +126,4 @@ The analysis is based on the current dashboard snapshots and uses train-sales re
   - promotion timing
   - outlet-specific planograms
 
-### Data Quality / Governance
-
-- Reduce `Unknown` outlet size records to improve segmentation reliability.
-- Track data completeness metrics as part of ETL quality checks.
 
