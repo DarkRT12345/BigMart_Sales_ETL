@@ -7,9 +7,9 @@ This project builds an end-to-end analytics pipeline for the BigMart dataset:
 - ingest raw CSV files
 - clean and standardize data
 - load into a PostgreSQL star-schema warehouse
-- power dashboard analysis in Power BI
+- dashboard analysis in Power BI
 
-The goal is business analysis, not ML model training.
+The goal of this project is business analysis.
 
 ## Project Objectives
 
