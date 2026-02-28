@@ -12,6 +12,8 @@ The analysis is based on the current dashboard snapshots and uses train-sales re
 
 ## Executive Overview Findings
 
+<img width="1150" height="645" alt="Executive Overview Dashboard" src="https://github.com/user-attachments/assets/559c3559-b33f-45da-b78f-30245991e170" />
+
 ### Headline KPIs
 
 - Total Sales: ~18.59M
@@ -45,6 +47,9 @@ The analysis is based on the current dashboard snapshots and uses train-sales re
 
 ## Outlet Sales Analysis Findings
 
+<img width="1153" height="649" alt="Outlet Sales Analysis" src="https://github.com/user-attachments/assets/88cec197-05e9-430b-8879-9c84080027ed" />
+
+
 ### Sales Share by Outlet Type and Location
 
 - `Supermarket Type1` has multi-tier distribution and broad coverage.
@@ -68,6 +73,9 @@ The analysis is based on the current dashboard snapshots and uses train-sales re
 - Some outlet types show materially higher average sales per record.
 
 ## Product Analysis Findings
+
+<img width="1150" height="647" alt="Product Analysis" src="https://github.com/user-attachments/assets/3417259c-6754-4b56-8921-07e7a5f34465" />
+
 
 ### Product Type Contribution
 
