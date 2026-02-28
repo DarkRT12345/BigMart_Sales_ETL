@@ -123,16 +123,3 @@ The analysis is based on the current dashboard snapshots and uses train-sales re
 - Reduce `Unknown` outlet size records to improve segmentation reliability.
 - Track data completeness metrics as part of ETL quality checks.
 
-## Recommended Next Analyses
-
-1. Build outlet-level contribution and Pareto (80/20) analysis.
-2. Add category-by-location profitability proxy (sales, not margin, in current data).
-3. Segment outlets into performance tiers for targeted interventions.
-4. Add periodic refresh and trend monitoring in Power BI Service.
-
-## Suggested KPI Extensions
-
-- Sales share of Top 5 outlets
-- Sales share of Top 5 product types
-- Sales per outlet by location tier
-- Category concentration index (revenue dependency risk)
